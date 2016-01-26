@@ -1,3 +1,5 @@
+<h1>Random Quote Machine</h1>
+
 This project was built as a part of Free Code Camp's Front-End Development curriculum.
 
 User stories:
